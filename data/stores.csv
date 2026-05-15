@@ -1,5 +1,6 @@
 Name,Link,Shipping Carrier
-Amazon,https://amazon.com,USPS and Amazon Logistics - very rare that they used UPS
-Walmart,https://walmart.com,walmart drivers and FedEx - 3rd party sellers mostly use USPS
-Aliexpress,https://aliexpress.com,USPS
-ebay,https://ebay.com,most sellers use USPS - you have to communicate with the sellers, if you prefer FedEx or UPS
+"Amazon","https://amazon.com","USPS and Amazon Logistics - very rare that they used UPS"
+"Walmart","https://walmart.com","walmart drivers and FedEx - 3rd party sellers mostly use USPS"
+"Aliexpress","https://aliexpress.com","USPS"
+"ebay","https://ebay.com", "most sellers use USPS - you have to communicate with the sellers, if you prefer FedEx or UPS"
+"","",""
